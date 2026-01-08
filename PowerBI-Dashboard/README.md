@@ -16,6 +16,6 @@ This Power BI dashboard analyzes Netflix data to understand:
 ![Dashboard](screenshots/1.jpeg)
 
 ## 📁 Files
-- Dashboard.pbix – Power BI report
+- PowerBI-Dashboard.pbix – Power BI report
 - screenshots/ – Dashboard images
 
