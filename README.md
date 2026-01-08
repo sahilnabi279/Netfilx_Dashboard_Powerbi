@@ -32,7 +32,7 @@ This project features an interactive **Power BI dashboard** designed to analyze 
 ## 📷 Dashboard Preview
 Below are screenshots of the Power BI dashboard for quick reference:
 
-![Dashboard Preview](screenshots/1.jpeg)
+![Dashboard Preview](PowerBI-Dashboard/screenshots/1.jpeg)
 ![Dashboard Preview](screenshots/3.jpeg)
 
 ---
