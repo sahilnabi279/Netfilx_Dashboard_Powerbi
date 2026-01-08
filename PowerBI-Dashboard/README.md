@@ -13,7 +13,7 @@ This Power BI dashboard analyzes Netflix data to understand:
 - Microsoft Excel
 
 ## 📷 Dashboard Preview
-![Dashboard](screenshots/dashboard1.png)
+![Dashboard](screenshots/1.jpeg)
 
 ## 📁 Files
 - Dashboard.pbix – Power BI report
