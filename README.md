@@ -39,7 +39,7 @@ Below are screenshots of the Power BI dashboard for quick reference:
 
 ## 📁 Project Files
 - `netflix dashboard.pbix` – Power BI report file  
-- `screenshots/` – Dashboard preview images  
+- `screenshots` – Dashboard preview images  
 
 ---
 
